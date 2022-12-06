@@ -4,3 +4,5 @@ Display content of /etc/passwd
 script reads from 2 files
 Script displayslast 10 lines of file
 Script displaysfirst 10 lines of file
+Script reads third line of file
+Script displays newest files in directory
