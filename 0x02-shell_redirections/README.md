@@ -10,3 +10,4 @@ Script dulplicates last line of file
 script deletes .js files
 Script counts directories
 script prints word that appear once
+Displays lines containing "root"
