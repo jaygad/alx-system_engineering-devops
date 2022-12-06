@@ -12,3 +12,4 @@ Script counts directories
 script prints word that appear once
 Displays lines containing "root"
 Counts lines with "bin"
+displays line with root and 3 lines after that
