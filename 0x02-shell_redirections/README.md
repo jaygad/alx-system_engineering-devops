@@ -6,3 +6,4 @@ Script displayslast 10 lines of file
 Script displaysfirst 10 lines of file
 Script reads third line of file
 Script displays newest files in directory
+Script dulplicates last line of file
