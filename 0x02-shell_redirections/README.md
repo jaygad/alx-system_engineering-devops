@@ -19,3 +19,4 @@ replace A and c from input to Z and e respectively.
 Removes letters c and C
 Reverse input
 displays all users and their home directories, sorted by users
+find all empty files
