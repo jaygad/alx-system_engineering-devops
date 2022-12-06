@@ -11,3 +11,4 @@ script deletes .js files
 Script counts directories
 script prints word that appear once
 Displays lines containing "root"
+Counts lines with "bin"
