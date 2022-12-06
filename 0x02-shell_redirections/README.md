@@ -8,3 +8,4 @@ Script reads third line of file
 Script displays newest files in directory
 Script dulplicates last line of file
 script deletes .js files
+Script counts directories
