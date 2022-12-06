@@ -15,3 +15,4 @@ Counts lines with "bin"
 displays line with root and 3 lines after that
 Prints lines without "bin"
 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+replace A and c from input to Z and e respectively.
