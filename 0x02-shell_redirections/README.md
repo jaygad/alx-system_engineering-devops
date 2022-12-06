@@ -17,3 +17,4 @@ Prints lines without "bin"
 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 replace A and c from input to Z and e respectively.
 Removes letters c and C
+Reverse input
