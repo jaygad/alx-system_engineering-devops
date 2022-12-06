@@ -20,3 +20,4 @@ Removes letters c and C
 Reverse input
 displays all users and their home directories, sorted by users
 find all empty files
+script to find .gif files
