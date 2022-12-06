@@ -22,3 +22,4 @@ displays all users and their home directories, sorted by users
 find all empty files
 script to find .gif files
 script that decodes acrostics
+Script parses web servers log
