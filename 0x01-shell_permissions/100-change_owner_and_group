@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staff /0x01-shell_permissions/*
+sudo chown vincent chgrp -hR staff /u
