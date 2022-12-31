@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m -p -sort -U -x -a
+ls -map -sort -d -x
