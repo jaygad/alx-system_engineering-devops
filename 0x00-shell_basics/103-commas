@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m -p --group-directories-first -a\n
+ls -m -p -sort -d -a\n
